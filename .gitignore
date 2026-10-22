@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+records.db
+uploads/*
+processed/*
+faces/*
